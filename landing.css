@@ -1,0 +1,30 @@
+button
+{
+    background-color: rgb(81, 73, 73);
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button:hover
+{
+    background-color: rgb(121, 121, 236);
+}
+
+a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover
+{
+    cursor: pointer;
+}
